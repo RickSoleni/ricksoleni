@@ -10,6 +10,8 @@ Sobre mim
 
 - 😄 Pronomes: Ele/Dele - He/Him 
 
+- 🥋 Praticante de Caratê. Oss!
+
 - ⚡ Fun fact: Atualmente o melhor jogador de Lillia 🌸 da cidade de Avaré (a confirmar) 
 
 
