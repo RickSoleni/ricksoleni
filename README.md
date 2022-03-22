@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá pessoas 👋 ###
 
-<!--
-**RickSoleni/ricksoleni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sobre mim
 
-Here are some ideas to get you started:
+- 🔭 Atualmente trabalhando na área administrativa na saúde 🩺
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Estudando: Python 🐍 / FastAPI ✉ / PostgreSQL 🎲
+
+- 👯 Em busca de oportunidades na área de tecnologia, afim de mergulhar de vez no desenvolvimento de aplicações
+
+- 😄 Pronouns: Ele/Dele - He/Him 
+
+- ⚡ Fun fact: Atualmente o melhor jogador de Lillia 🌸 da cidade de Avaré (a confirmar) 
+
+
