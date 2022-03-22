@@ -8,7 +8,7 @@ Sobre mim
 
 - 👯 Em busca de oportunidades na área de tecnologia, afim de mergulhar de vez no desenvolvimento de aplicações
 
-- 😄 Pronouns: Ele/Dele - He/Him 
+- 😄 Pronomes: Ele/Dele - He/Him 
 
 - ⚡ Fun fact: Atualmente o melhor jogador de Lillia 🌸 da cidade de Avaré (a confirmar) 
 
