@@ -1,17 +1,17 @@
-### Olá pessoas 👋 ###
+### Hi people 👋 ###
 
-Sobre mim
+About me
 
-- 🔭 Atualmente trabalhando na área administrativa na saúde 🩺
+- 🔭 Current, I work on Healthcare Public System 🩺
 
-- 🌱 Estudando: Python 🐍 / FastAPI ✉ / PostgreSQL 🎲
+- 🌱 Learning Python 🐍 / FastAPI ✉ / Flask / PostgreSQL / Mongo DB 🎲
 
-- 👯 Em busca de oportunidades na área de tecnologia, afim de mergulhar de vez no desenvolvimento de aplicações
+- 👯 Looking for opportunities in the development field
 
-- 😄 Pronomes: Ele/Dele - He/Him 
+- 😄 Pronoums: Ele/Dele - He/Him 
 
-- 🥋 Praticante de karatê-dô. Oss!
+- 🥋 Karate-do Athlete. Oss!
 
-- ⚡ Fun fact: Atualmente o melhor jogador de Lillia 🌸 da cidade de Avaré (a confirmar) 
+- ⚡ Fun fact: The Better Lillia of the World 🌸 (To confirm) 
 
 
