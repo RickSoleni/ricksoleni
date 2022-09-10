@@ -10,7 +10,7 @@ About me
 
 - 😄 Pronoums: Ele/Dele - He/Him 
 
-- 🥋 Karate-do Athlete. Oss!
+- 🥋 Karate-do Athlete (Yellow Belt). Oss!
 
 - ⚡ Fun fact: The Better Lillia of the World 🌸 (To confirm) 
 
