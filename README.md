@@ -4,7 +4,11 @@ About me
 
 - 🔭 Current, I work on Healthcare Public System 🩺
 
-- 🌱 Learning Python 🐍 / FastAPI ✉ / Flask / PostgreSQL / Mongo DB 🎲
+- ✨ Front-end: HTML  / CSS  / React (Learning) 
+
+- 🐍 Back-end: Python  / FastAPI  / Flask 
+
+- 🎲 Database: MongoDB / PostgreSQL / MySQL
 
 - 👯 Looking for opportunities in the development field
 
