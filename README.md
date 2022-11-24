@@ -2,15 +2,13 @@
 
 About me
 
-- 🔭 Current, I work on Healthcare Public System 🩺
+- 🔭 System Analist @ Empirica 
 
 - ✨ Front-end: HTML  / CSS  / React (Learning) 
 
 - 🐍 Back-end: Python  / FastAPI  / Flask 
 
-- 🎲 Database: MongoDB / PostgreSQL / MySQL
-
-- 👯 Looking for opportunities in the development field
+- 🎲 Database: MongoDB / PostgreSQL / MySQL / SQLServer (Learning)
 
 - 😄 Pronoums: Ele/Dele - He/Him 
 
